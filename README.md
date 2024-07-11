@@ -3,7 +3,7 @@
 ### 🚀 Aspiring Data Scientist skilled in Data Analytics,ML/DL to extract <img src ="https://github.com/viharims19/viharims19/assets/155454681/dc37b1b6-3548-402f-a28d-8e1630ca1d86" width = 60 height = 60> and deliver <img src= "https://github.com/viharims19/viharims19/assets/155454681/3293c1ea-56e2-4bd8-9c60-e0efb0544e7d" width = 65 height = 65>
 
 
-### 👨‍💻 I am passionate about learning and honing my skills in: <img align="right" src="https://github.com/viharims19/viharims19/assets/155454681/1e1d971d-2339-4ec1-b025-49ce9e08961b" width = 350 height = 250>
+### 👨‍💻 I am passionate about learning and honing my skills in:
 
 * Data Analytics
 * Machine Learning
